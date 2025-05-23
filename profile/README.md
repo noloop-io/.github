@@ -1,12 +1,24 @@
-## Hi there 👋
+<p align="center">
+  <img src="../images/logo-white.svg" alt="noloop logo" width="150"/>
+</p>
 
-<!--
+# Welcome to noloop
 
-**Here are some ideas to get you started:**
+At **noloop**, we don’t just build software—we engineer evolution.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We are a global technology company specializing in:
+- **AI systems** (custom models, LLMs, and automation pipelines)
+- **AR/VR experiences** (Apple Vision Pro, Meta Quest, Web XR)
+- **Custom software** from MVPs to high-scale platforms
+- **Mobile, Web & Cloud** architecture with Kubernetes, Redis, SQL, NoSQL and more
+
+We partner with forward-thinking companies and startups to deliver world-class technology solutions with speed, precision, and trust.
+
+**Let’s build the future.**
+
+[Visit our website →](https://noloop.io)  
+[Book a Meeting →](https://cal.com/noloop/consultation)
+
+---
+
+> “no loops, no limits—just continuous evolution.”
